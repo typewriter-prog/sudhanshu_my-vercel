@@ -13,8 +13,8 @@ export default {
     yellow: { label: 'POWER', emoji: '⚡', color: '#f9f871', tone: 554.37 },
   },
   colors: {
-    background: '#2db561ff',
-    backgroundAccent: '#003b1f',
+    background: '#9aad39ff',
+    backgroundAccent: '#3be660ff',
     surface: 'rgba(203, 134, 43, 0.06)',
     text: '#d1ffe8',
     muted: '#5fb88a',
